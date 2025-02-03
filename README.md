@@ -1,2 +1,4 @@
 # Hand-Gesture-Based-Volume-Control
-It is an innovative solution utilizing computer vision and machine learning to control volume levels using hand gestures. The implementation of this project can transform the way humans interact with devices, enhancing user experience and accessibility through intuitive and hands-free volume control.
+This is the repository for Hand Gesture Volume Control proceede with the help of openCV, MediaPipe, PyAutoGUI.
+
+The python file is provided here utilizing pycharm IDE, moreover a sample video of the output is also provided.
