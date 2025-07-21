@@ -1,4 +1,4 @@
- Hand-Gesture-Based-Volume-Control
+ ## Hand-Gesture-Based-Volume-Control
  
 This is the repository for Hand Gesture Volume Control proceeded with the help of openCV, MediaPipe, PyAutoGUI.
 
